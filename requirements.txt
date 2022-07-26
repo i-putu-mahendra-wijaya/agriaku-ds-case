@@ -1,0 +1,7 @@
+ipynb==0.5.1						# for importing Python code from another Jupyter Notebook files
+torch==1.12.0					# Meta AI's unified deep learning framework
+torch_geometric==2.0.4				# PyTorch for geometric deep learning
+tensorflow==2.9.1					# Google's unified deep learning framework
+numpy==1.22.3					# for mathematical operations
+matplotlib==3.5.2					# for 2D visualization purposes
+plotly==5.6.0						# for 3D and interactive visualization purposes
